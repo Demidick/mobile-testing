@@ -45,4 +45,4 @@
 ---
 
 **Контакты:** [@demidago] 
-**Основное портфолио:** [Ссылка на qa-portfolio репозиторий]
+**Основное портфолио:** [[Ссылка на qa-portfolio репозиторий](https://github.com/Demidick/qa-portfolio)]
